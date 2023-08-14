@@ -70,7 +70,7 @@
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-chovatiya&show_icons=true&theme=dracula&locale=en&layout=compact"
         alt="tushar-chovatiya" /></p>
- <br>
+
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=tushar-chovatiya&show_icons=true&theme=dracula&locale=en"
         alt="tushar-chovatiya" /></p>
