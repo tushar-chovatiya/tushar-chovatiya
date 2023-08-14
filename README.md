@@ -58,7 +58,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <br>
+ 
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>
   </a>
@@ -70,7 +70,7 @@
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-chovatiya&show_icons=true&theme=dracula&locale=en&layout=compact"
         alt="tushar-chovatiya" /></p>
-
+ <br>
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=tushar-chovatiya&show_icons=true&theme=dracula&locale=en"
         alt="tushar-chovatiya" /></p>
